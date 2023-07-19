@@ -2,16 +2,16 @@
 
 will learn 
 
-\nColor
-\nCustomization
-\nTypography
-\nSpaces & Sizes
-\nFlex
-\nGrids 
-\nLayouts
-\nBorders
-\nEffects & filters
-\nAnimations 
-\nCore Concepts
-\nDesign System
-\nDark Mode
+<br />Color
+<br />Customization
+<br />Typography
+<br />Spaces & Sizes
+<br />Flex
+<br />Grids 
+<br />Layouts
+<br />Borders
+<br />Effects & filters
+<br />Animations 
+<br />Core Concepts
+<br />Design System
+<br />Dark Mode
