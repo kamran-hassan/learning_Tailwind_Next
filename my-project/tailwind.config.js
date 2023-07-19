@@ -24,6 +24,9 @@ module.exports = {
       colors: {
         mygreen: "#49e659",
       },
+      fontSize: {
+        sm: '100px'
+      }
     }
   },
   plugins: [],

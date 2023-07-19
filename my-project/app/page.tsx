@@ -25,6 +25,8 @@ export default function Home() {
     </h1>
 
     <h1 className='text-9xl'> Title 1 </h1>
+
+    <h1 className='mt-5 text-sm'> Else </h1>
     </div>
   ) 
 }
