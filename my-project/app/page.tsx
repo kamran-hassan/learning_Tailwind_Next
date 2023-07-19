@@ -23,6 +23,8 @@ export default function Home() {
     <h1 className='mx-5'>
       Hello this is another sentence !
     </h1>
+
+    <h1 className='text-9xl'> Title 1 </h1>
     </div>
   ) 
 }
