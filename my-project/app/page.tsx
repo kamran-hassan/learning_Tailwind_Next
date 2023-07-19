@@ -9,6 +9,9 @@ export default function Home() {
     <h1 className="text-yellow-300 border-8">
       Hello World
     </h1>
+    <h1 className="text-mygreen border-mygreen border-8">
+      Hello World
+    </h1>
     </div>
   ) 
 }
